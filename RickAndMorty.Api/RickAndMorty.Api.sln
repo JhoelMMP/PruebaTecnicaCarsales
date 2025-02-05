@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RickAndMorty.Api", "RickAndMorty.Api\RickAndMorty.Api.csproj", "{557F013E-BDD0-45D4-8867-02041D02AFB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RickAndMorty.Domain", "RickAndMorty.Domain\RickAndMorty.Domain.csproj", "{279F59C3-E81B-42F0-9D5C-030C66221ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RickAndMorty.Application", "RickAndMorty.Application\RickAndMorty.Application.csproj", "{F551FC95-751F-4316-A2A8-673C4514DDD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RickAndMorty.Infrastructure", "RickAndMorty.Infrastructure\RickAndMorty.Infrastructure.csproj", "{F885E5C0-3476-4EB8-A44C-B564B5BDAC62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557F013E-BDD0-45D4-8867-02041D02AFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557F013E-BDD0-45D4-8867-02041D02AFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557F013E-BDD0-45D4-8867-02041D02AFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557F013E-BDD0-45D4-8867-02041D02AFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279F59C3-E81B-42F0-9D5C-030C66221ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279F59C3-E81B-42F0-9D5C-030C66221ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279F59C3-E81B-42F0-9D5C-030C66221ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279F59C3-E81B-42F0-9D5C-030C66221ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F551FC95-751F-4316-A2A8-673C4514DDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F551FC95-751F-4316-A2A8-673C4514DDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F551FC95-751F-4316-A2A8-673C4514DDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F551FC95-751F-4316-A2A8-673C4514DDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F885E5C0-3476-4EB8-A44C-B564B5BDAC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F885E5C0-3476-4EB8-A44C-B564B5BDAC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F885E5C0-3476-4EB8-A44C-B564B5BDAC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F885E5C0-3476-4EB8-A44C-B564B5BDAC62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

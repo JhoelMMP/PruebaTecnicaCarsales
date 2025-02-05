@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RickAndMorty.Application/1.0.0": {
+        "dependencies": {
+          "RickAndMorty.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RickAndMorty.Application.dll": {}
+        }
+      },
+      "RickAndMorty.Domain/1.0.0": {
+        "runtime": {
+          "RickAndMorty.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RickAndMorty.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RickAndMorty.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

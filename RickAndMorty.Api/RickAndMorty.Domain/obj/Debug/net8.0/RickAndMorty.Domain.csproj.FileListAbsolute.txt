@@ -1,0 +1,12 @@
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\bin\Debug\net8.0\RickAndMorty.Domain.deps.json
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\bin\Debug\net8.0\RickAndMorty.Domain.dll
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\bin\Debug\net8.0\RickAndMorty.Domain.pdb
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\obj\Debug\net8.0\RickAndMorty.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\obj\Debug\net8.0\RickAndMorty.Domain.AssemblyInfoInputs.cache
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\obj\Debug\net8.0\RickAndMorty.Domain.AssemblyInfo.cs
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\obj\Debug\net8.0\RickAndMorty.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\obj\Debug\net8.0\RickAndMorty.Domain.sourcelink.json
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\obj\Debug\net8.0\RickAndMorty.Domain.dll
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\obj\Debug\net8.0\refint\RickAndMorty.Domain.dll
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\obj\Debug\net8.0\RickAndMorty.Domain.pdb
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Domain\obj\Debug\net8.0\ref\RickAndMorty.Domain.dll

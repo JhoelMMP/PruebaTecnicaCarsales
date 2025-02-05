@@ -1,0 +1,16 @@
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\RickAndMorty.Application.csproj.AssemblyReference.cache
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\RickAndMorty.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\RickAndMorty.Application.AssemblyInfoInputs.cache
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\RickAndMorty.Application.AssemblyInfo.cs
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\RickAndMorty.Application.csproj.CoreCompileInputs.cache
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\RickAndMorty.Application.sourcelink.json
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\bin\Debug\net8.0\RickAndMorty.Application.deps.json
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\bin\Debug\net8.0\RickAndMorty.Application.dll
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\bin\Debug\net8.0\RickAndMorty.Application.pdb
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\bin\Debug\net8.0\RickAndMorty.Domain.dll
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\bin\Debug\net8.0\RickAndMorty.Domain.pdb
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\RickAndM.EEE5EC8F.Up2Date
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\RickAndMorty.Application.dll
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\refint\RickAndMorty.Application.dll
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\RickAndMorty.Application.pdb
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Application\obj\Debug\net8.0\ref\RickAndMorty.Application.dll
