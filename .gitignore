@@ -1,1 +1,42 @@
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Compiled output
+/RickAndMortyWeb/dist
+/RickAndMortyWeb/tmp
+/RickAndMortyWeb/out-tsc
+/RickAndMortyWeb/bazel-out
 /RickAndMorty.Api/.vs
+# Node
+/RickAndMortyWeb/node_modules
+/RickAndMortyWeb/npm-debug.log
+/RickAndMortyWeb/yarn-error.log
+
+# IDEs and editors
+/RickAndMortyWeb/.idea/
+/RickAndMortyWeb/.project
+/RickAndMortyWeb/.classpath
+/RickAndMortyWeb/.c9/
+/RickAndMortyWeb/*.launch
+/RickAndMortyWeb/.settings/
+/RickAndMortyWeb/*.sublime-workspace
+
+# Visual Studio Code
+/RickAndMortyWeb/.vscode/*
+/RickAndMortyWeb/!.vscode/settings.json
+/RickAndMortyWeb/!.vscode/tasks.json
+/RickAndMortyWeb/!.vscode/launch.json
+/RickAndMortyWeb/!.vscode/extensions.json
+/RickAndMortyWeb/.history/*
+
+# Miscellaneous
+/RickAndMortyWeb/.angular/cache
+/RickAndMortyWeb/.sass-cache/
+/RickAndMortyWeb/connect.lock
+/RickAndMortyWeb/coverage
+/RickAndMortyWeb/libpeerconnection.log
+/RickAndMortyWeb/testem.log
+/RickAndMortyWeb/typings
+
+# System files
+/RickAndMortyWeb/.DS_Store
+/RickAndMortyWeb/Thumbs.db

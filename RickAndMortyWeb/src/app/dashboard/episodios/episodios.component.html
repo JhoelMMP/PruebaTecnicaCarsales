@@ -1,0 +1,53 @@
+
+<div class="card-container">
+
+    <!--CICLO PARA RENDERIZAR LAS CARD DE LOS CAPITULOS -->
+    @for (episodio of episodioServices.episodio(); track $index; ) {
+      <div class="card">
+        <div class="card-content">
+            <div class="card-title">
+                {{episodio.name}}
+            </div>
+            <div class="card-button">
+                <button (click)="abrirModal(episodio)">Detalle</button>
+            </div>
+        </div>
+      </div>
+    }
+
+    <!-- MODAL PARA MOSTRAR EL DETALLE DEL CAPITULO -->
+    @if (mostrarModal()) {
+      <div class="modal">
+        <div class="modal-content">
+            <span (click)="cerrarModal()" class="close-button">&times;</span>
+            <h2>{{ episodioSeleccionado?.name }}</h2>
+            <p>Fecha de Creación: {{ episodioSeleccionado?.created | date: 'dd/MM/yyyy' }}</p>
+            <p>Fecha de Emisión: {{ episodioSeleccionado?.air_date}}</p>
+            <p>Código de Episodio: {{ episodioSeleccionado?.episode }}</p>
+            <p>Cantidad de Personajes: {{ episodioSeleccionado?.characters?.length }}</p>
+            </div>
+    </div>
+    }
+</div>
+
+<!-- PAGINADOR -->
+@if (episodioServices.totalPaginas() >= 1) {
+  <div class="pagination">
+    <button [disabled]="currentPage === 1"
+            (click)="cambiarPagina(currentPage - 1)">
+      Anterior
+    </button>
+
+    @for (pagina of paginas(); track $index) {
+      <a  (click)="cambiarPagina(pagina)"
+          [class.active]="pagina === currentPage">
+        {{ pagina }}
+      </a>
+
+    }
+    <button [disabled]="currentPage === this.episodioServices.totalPaginas()"
+            (click)="cambiarPagina(currentPage + 1)">
+      Siguiente
+    </button>
+  </div>
+}

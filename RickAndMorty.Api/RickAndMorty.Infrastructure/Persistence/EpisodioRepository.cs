@@ -16,6 +16,11 @@ namespace RickAndMorty.Infrastructure.Persistence
             _context = context;
         }
 
+        public async Task<Paginacion> ObtenerInfoPaginacion()
+        {
+            return await _context.ObtenerInfoPaginacion();
+        }
+
         public async Task<List<Episodio>> ObtenerEpisodios()
         {
             return await _context.ObtenerEpisodiosDeApi();

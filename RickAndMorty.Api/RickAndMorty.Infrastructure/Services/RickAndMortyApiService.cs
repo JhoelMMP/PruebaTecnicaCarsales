@@ -12,6 +12,19 @@ namespace RickAndMorty.Infrastructure.Services
             _httpClient = httpClient;
         }
 
+        public async Task<Paginacion> ObtenerInfoPaginacion()
+        {
+            var response = await _httpClient.GetAsync($"https://rickandmortyapi.com/api/episode");
+            if (response.IsSuccessStatusCode)
+            {
+                var json = await response.Content.ReadAsStringAsync();
+                var data = JObject.Parse(json);
+                var results = data["info"].ToObject<Paginacion>();
+                return results;
+            }
+            return null;
+        }
+
         public async Task<List<Episodio>> ObtenerEpisodiosDeApi()
         {
             var response = await _httpClient.GetAsync($"https://rickandmortyapi.com/api/episode");

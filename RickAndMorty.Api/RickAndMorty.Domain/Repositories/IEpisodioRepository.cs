@@ -9,7 +9,8 @@ namespace RickAndMorty.Domain.Repositories
 {
     public interface IEpisodioRepository
     {
-        
+        Task<Paginacion> ObtenerInfoPaginacion();
+
         Task<List<Episodio>> ObtenerEpisodios();
 
         Task<List<Episodio>> ObtenerEpisodios(int pagina);

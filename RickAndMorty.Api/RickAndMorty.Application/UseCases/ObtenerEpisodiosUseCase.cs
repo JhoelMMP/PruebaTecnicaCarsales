@@ -12,6 +12,11 @@ namespace RickAndMorty.Application.UseCases
             _episodioRepository = episodioRepository;
         }
 
+        public async Task<Paginacion> BuscarInfoPaginacion()
+        {
+            return await _episodioRepository.ObtenerInfoPaginacion();
+        }
+
         public async Task<Episodio> BuscarPorId(int id)
         {
             return await _episodioRepository.ObtenerEpisodioPorId(id);

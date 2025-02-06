@@ -14,5 +14,15 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RickAndMorty.Api.Controllers.EpisodiosController",
+    "Method": "GetPaginacionEpisodios",
+    "RelativePath": "api/Episodios/Paginacion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

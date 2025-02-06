@@ -26,6 +26,18 @@
           }
         }
       }
+    },
+    "/api/Episodios/Paginacion": {
+      "get": {
+        "tags": [
+          "Episodios"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": { }

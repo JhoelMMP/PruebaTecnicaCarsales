@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RickAndMorty.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a26b87b07be000e9619aad03f8b2943d0fc10304")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3bcd61c0815dcfac6e0e8bb62612c2be39d6b65")]
 [assembly: System.Reflection.AssemblyProductAttribute("RickAndMorty.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RickAndMorty.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

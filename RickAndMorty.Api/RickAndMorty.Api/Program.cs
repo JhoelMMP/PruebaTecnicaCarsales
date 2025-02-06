@@ -6,6 +6,17 @@ using RickAndMorty.Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configura CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigins", builder =>
+    {
+        builder.WithOrigins("http://localhost:4200")
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
+});
+
 // Inyección de dependencias
 builder.Services.AddHttpClient(); // Para HttpClient
 builder.Services.AddScoped<RickAndMortyApiService>();
@@ -20,6 +31,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+// Usa CORS antes de otros middlewares
+app.UseCors("AllowSpecificOrigins");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

@@ -20,5 +20,12 @@ namespace RickAndMorty.Api.Controllers
             var episodios = await _obtenerEpisodiosUseCase.BuscarEpisodios(pagina);
             return Ok(episodios);
         }
+
+        [HttpGet("Paginacion")]
+        public async Task<IActionResult> GetPaginacionEpisodios()
+        {
+            var paginacion = await _obtenerEpisodiosUseCase.BuscarInfoPaginacion();
+            return Ok(paginacion);
+        }
     }
 }
