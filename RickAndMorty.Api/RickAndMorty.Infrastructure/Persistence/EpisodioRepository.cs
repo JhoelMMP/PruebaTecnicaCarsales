@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using RickAndMorty.Domain.Entities;
 using RickAndMorty.Domain.Repositories;
 using RickAndMorty.Infrastructure.Services;

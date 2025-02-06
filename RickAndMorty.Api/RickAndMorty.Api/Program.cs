@@ -1,4 +1,5 @@
-using Microsoft.EntityFrameworkCore;
+
+using RickAndMorty.Api.Configurations;
 using RickAndMorty.Application.UseCases;
 using RickAndMorty.Domain.Repositories;
 using RickAndMorty.Infrastructure.Persistence;
@@ -16,6 +17,8 @@ builder.Services.AddCors(options =>
                .AllowAnyHeader();
     });
 });
+
+builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("ApiSettings"));
 
 // Inyección de dependencias
 builder.Services.AddHttpClient(); // Para HttpClient

@@ -18,6 +18,7 @@ C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndM
 C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -53,4 +54,3 @@ C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndM
 C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\obj\Debug\net8.0\RickAndMorty.Api.pdb
 C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\obj\Debug\net8.0\RickAndMorty.Api.genruntimeconfig.cache
 C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\obj\Debug\net8.0\ref\RickAndMorty.Api.dll
-C:\Users\jhoel\Documents\Trabajo\PruebaTecnicaCarsales\RickAndMorty.Api\RickAndMorty.Api\bin\Debug\net8.0\Newtonsoft.Json.dll

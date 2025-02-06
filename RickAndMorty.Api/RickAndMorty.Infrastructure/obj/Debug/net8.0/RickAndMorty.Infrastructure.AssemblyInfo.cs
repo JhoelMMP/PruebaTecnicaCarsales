@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RickAndMorty.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3bcd61c0815dcfac6e0e8bb62612c2be39d6b65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bc87d0e739ffa296e628e1497c5354cee5424d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RickAndMorty.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RickAndMorty.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
