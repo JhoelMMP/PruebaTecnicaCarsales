@@ -1,6 +1,8 @@
 # Pueba Practica Carsales
 
 Pequeña prueba tecnica con arquitectura BFF (Backend For Frontend), integrado con la API de https://rickandmortyapi.com/documentation/#rest .
+Backend -> .Net Core 8
+Frontend -> Angular 19
 
 
 
